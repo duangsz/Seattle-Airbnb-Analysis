@@ -19,7 +19,8 @@ For this project, I was interested in using the Seattle Airbnb Open Data to Unde
 There is one notebooks available to show work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions above. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 # Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available here http://github.com - automatic!
+[GitHub](http://github.com).
 
 # Licensing, Authors, Acknowledgements
 You can find the Licensing for the data and other descriptive information at the Kaggle link available here. 
