@@ -18,7 +18,7 @@ For this project, I was interested in using the Seattle Airbnb Open Data to Unde
 # File Descriptions
 There is one notebooks available to show work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions above. Markdown cells were used to assist in walking through the thought process for individual steps.
 
-The csv file is the public dataset we used for the analysis
+The csv file is the public dataset I used for the analysis
 
 # Results
 The main findings of the code can be found at the post available [here](https://medium.com/@jlspszm/how-to-do-investment-on-airbnb-in-seattle-ade69f6011b2). 
